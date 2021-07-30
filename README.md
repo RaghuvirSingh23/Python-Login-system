@@ -1,8 +1,8 @@
 # Python-Login-system
-THIS IS A BASIC LOGIN SYSTEM BUILT IN PYTHON.
-INITIALLY I THOUGHT OF BUILDING A RANDOM PASSWORD GENERATOR AND HENCE THE NAME OF THE FOLDER IS PASSGEN.
-I TRIED CHANGING THE PROJECT NAME, BUT THAT GENRATED ERRORS, HENCE I WILL UPDATE THAT IN FUTURE. CURRENTLY TRY THIS VERSION OF THE PROJECT.
-IN THIS PROJECT YOU HAVE ALL THE LOGIN/SIGN UP OPTIONS ALONG WITH A DATABASE THAT MAINTAINS ALL THE CREDENTIALS IN A CSV FILE. EVEN WHEN YOU CLOSE AND RESTART THE .PY FILE
+This is a basic login system built in python.
+Initially, I thought of building a random password generator, and hence the name of the folder is passgen.
+I tried changing the project name, but that generated errors. Hence I will update that in the future. Currently, try this version of the project.
+In this project, you have all the login/sign-up options and a database that maintains all the credentials in a CSV file. Even when you close and restart the .py file.
 
 
-LOOKING FORWARD TO MAKING A GUI FOR THIS PROJECT USING TKINTER OR KIVY.
+Looking forward to making a GUI for this project using Tkinter or kivy.
